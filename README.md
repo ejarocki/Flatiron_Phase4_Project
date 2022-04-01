@@ -22,7 +22,7 @@ Here we want to focus on the prices that have a coefficient of variance that is 
 ## Regions
 
 
-![All_forecast](time-series/photos/all_forecast.png)
+![All_forecast](time-series/photos/all_forecasts.png)
 
 # Conclusion
 Through our data processing and engineering, we separated each zipcode into different regions, which are as follows: Northeast, Southeast, Midwest, Southwest, and West. Then, in our dataset, we created a new column called `ROI`, short for return on investment, by using the average sale price of 2009 as the initial purchase price and the average sale price of the last 12 months until April 2018 as the current price. With this new metric, we pinpointed which zipcodes within each region has the highest potential for investment returns. The five zipcodes with the highest `ROI` was located in Moroe, PA for the Northeast, Bolton, MS for the Southeast, North Liberty, IA for the Midwest, Fort Worth, TX for the Southwest, and finally Benton City, WA for the West. To ensure a risk averse investment strategy, our zipcodes were selected according to a coefficient of variation below the 60th percentile.
