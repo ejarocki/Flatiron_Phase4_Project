@@ -4,6 +4,10 @@
  - [**Elijah Jarocki**](https://github.com/ejarocki)
  - [**Soo Ho (John) Park**](https://github.com/soohojp)
 
+
+# Overview
+As a team we worked to do a time series analysis for 5 separate regions accross the United States. We tested for stationarity by conducting an AD-Fuller test to determine which modeling technique would be the most beneficial for each specific region. Our models are represented as Model A, B, C, D, and E.
+
 ## Navigating the Repository
 All data used in this project can be found in the file [`master_dataset_final.ipynb`](https://github.com/soohojp/Phase-1-Project-Best-Team-/blob/main/master_dataset.ipynb).
 Each individual goal was coded separately by John for [Goal 1](https://github.com/soohojp/Phase-1-Project-Best-Team-/blob/main/Untitled%20copy.ipynb), Nick for [Goal 2](https://github.com/soohojp/Phase-1-Project-Best-Team-/blob/main/goal_2_nick_w.ipynb), and Ilene for [Goal 3](https://github.com/soohojp/Phase-1-Project-Best-Team-/blob/main/Data%20set%20cleaning%20-%20ilene.ipynb). These separate files were then joined into the [`master_dataset_final.ipynb`](https://github.com/soohojp/Phase-1-Project-Best-Team-/blob/main/master_dataset.ipynb). All images used in this README.md can be found in the [`pictures/`](https://github.com/soohojp/Phase-1-Project-Best-Team-/tree/main/pictures) folder seperated by who utilized them for which goal.
