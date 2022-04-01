@@ -1,7 +1,7 @@
 # Phase4_Project
 ## Project Team:
  - [**Samira Chatrathi**](https://github.com/sgchatrathi)
- - [**Elijah Jarocki*](https://github.com/ejarocki)
+ - [**Elijah Jarocki**](https://github.com/ejarocki)
  - [**Soo Ho (John) Park**](https://github.com/soohojp)
 
 ## Navigating the Repository
