@@ -28,11 +28,7 @@ We wanted to focus on the prices that have a coefficient of variance that is ass
 ## Regions
 
 We devided the zipcodes into 5 categories: West, Southwest, Midwest, Southeast, and Northeast. We then found the best investment from each region by filtering the dataset for low variance and finding the maximum ROI from each region. Our final selections were the following locations:
-A: Monroe, PA
-B: Bolton, MS
-C: North Liberty, IA
-D: Fort Worth, TX
-E: Benton City, WA
+A: Monroe, PA; B: Bolton, MS; C: North Liberty, IA; D: Fort Worth, TX; E: Benton City, WA
 ![All_forecast](time-series/photos/all_forecasts.png)
 
 ## Modeling
